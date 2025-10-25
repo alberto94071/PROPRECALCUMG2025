@@ -2,7 +2,7 @@
 
 ¡Bienvenido a APRENDIENDO PRE CALCULO CON UM! Una aplicación web de e-learning interactiva diseñada como proyecto final para el curso de Precálculo.
 
-**[Agrega aquí tu enlace de Netlify o GitHub Pages para una demo en vivo]**
+**[https://aprendiendo-precalculo-con-umg.netlify.app/]**
 
 ![Imagen de la pantalla principal de la app](URL_DE_TU_SCREENSHOT)
 
