@@ -1,6 +1,6 @@
-# APRENDIENDO PRE CALCULO CON UMG 🎓
+# APRENDIENDO PRECALCULO CON UMG 🎓
 
-¡Bienvenido a APRENDIENDO PRE CALCULO CON UMG! Una aplicación web de e-learning interactiva diseñada como proyecto final para el curso de Precálculo.
+¡Bienvenido a APRENDIENDO PRE CALCULO CON UM! Una aplicación web de e-learning interactiva diseñada como proyecto final para el curso de Precálculo.
 
 **[Agrega aquí tu enlace de Netlify o GitHub Pages para una demo en vivo]**
 
@@ -30,3 +30,45 @@ Fue desarrollado como un proyecto para la **Universidad Mariano Gálvez de Guate
 * **Sección de Créditos:** Una pantalla de "Equipo de Desarrollo" con fotos y roles de los creadores.
 
 ---
+
+## 🛠️ Tecnologías Utilizadas
+
+Este proyecto fue construido desde cero utilizando tecnologías web estándar:
+
+* **HTML5:** Para la estructura semántica de la aplicación.
+* **CSS3:** Para todo el diseño, animaciones y la responsividad (diseño adaptable a móviles).
+* **JavaScript (ES6+):** Para toda la lógica de la aplicación, incluyendo:
+    * Manejo de pantallas (SPA - Single Page Application).
+    * Sistema de puntaje y quizzes.
+    * Carga dinámica de contenido.
+* **MathJax:** Librería de JavaScript para renderizar fórmulas $\LaTeX$ en la web.
+
+---
+
+## 🧠 Temas Cubiertos
+
+### Módulo 1: Fundamentos
+* 1.1 Números reales
+* 1.2 Exponentes y radicales
+* 1.3 Expresiones algebraicas
+* 1.4 Expresiones racionales
+* 1.5 Ecuaciones (Lineales, Cuadráticas, Radicales)
+* 1.6 Modelado con ecuaciones
+* 1.7 Desigualdades
+* 1.8 Geometría de coordenadas
+* 1.10 Rectas
+* 1.11 Modelos con el uso de variaciones
+
+### Módulo 2: Funciones
+* 2.1 ¿Qué es una función?
+* 2.2 Gráficas de funciones
+
+---
+
+## 👥 Equipo de Desarrollo
+
+| Foto | Nombre | Rol |
+| :---: | :---: | :---: |
+| [Foto tuya] | **Rony Alberto Méndez Fuentes** | Desarrollador Principal & Experto en Contenido |
+
+*(Sube una foto tuya al repositorio y pon el enlace en `[Foto tuya]`)*
