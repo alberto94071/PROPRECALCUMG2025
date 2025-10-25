@@ -4,10 +4,6 @@
 
 **[https://aprendiendo-precalculo-con-umg.netlify.app/]**
 
-![Imagen de la pantalla principal de la app](URL_DE_TU_SCREENSHOT)
-
-*(Recomendación: Sube una captura de pantalla al repositorio y reemplaza `URL_DE_TU_SCREENSHOT` con el enlace)*
-
 ---
 
 ## 🚀 Descripción del Proyecto
@@ -68,7 +64,14 @@ Este proyecto fue construido desde cero utilizando tecnologías web estándar:
 ## 👥 Equipo de Desarrollo
 
 | Foto | Nombre | Rol |
-| :---: | :---: | :---: |
-| [Foto tuya] | **Rony Alberto Méndez Fuentes** | Desarrollador Principal & Experto en Contenido |
+| :---: | :---: |
+| **Jeimy Vanesa Gòmez Lòpez** | Desarrollador | 0903-25-19221 |
+| **Ronald J. David Morales Crisòstomo** | Desarrollador |
+| **Luis David Castañòn Fuentes** | Desarrollador | 
+| **Gilmar Danilo Barrios A.** | Desarrollador | 
+| **Joaquin Daniel Maldonado V.** | Desarrollador | 
+| **Cristian Yahir Lòpez Monterroso** | Desarrollador | 
+| **Ivana Marcela MAlin de Leòn** | Desarrollador | 
+| **Rony Alberto Méndez Fuentes** | Desarrollador | 
 
-*(Sube una foto tuya al repositorio y pon el enlace en `[Foto tuya]`)*
+
