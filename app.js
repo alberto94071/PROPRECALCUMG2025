@@ -1,6 +1,6 @@
 let puntajeTotal = 0;
 let temaActual = "";
-const PUNTAJE_PARA_DIPLOMA = 20; // ¡puntos para el diploma!
+const PUNTAJE_PARA_DIPLOMA = 230; // ¡puntos para el diploma!
 let quizzesCompletados = []; 
 // --- 1. Definimos los temas de la aplicación ---
 const modulos = [
